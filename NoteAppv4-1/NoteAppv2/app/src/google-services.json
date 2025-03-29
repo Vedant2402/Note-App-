@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "532681567171",
+    "project_id": "assisgnment-8972a",
+    "storage_bucket": "assisgnment-8972a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532681567171:android:f1f3e99f5b8b7ff2beab76",
+        "android_client_info": {
+          "package_name": "com.example.noteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbXk2j5OPGg6P08_5fdrm6t89wOfBpnwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532681567171:android:fb81c9cf681f2a14beab76",
+        "android_client_info": {
+          "package_name": "com.example.noteappv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbXk2j5OPGg6P08_5fdrm6t89wOfBpnwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
